@@ -1,2 +1,2 @@
 # IoT_University
-Corso di Inteligence in internet of things
+learn the python paradigm
